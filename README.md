@@ -9,3 +9,8 @@ Hello, I’m Allan, I’m studying Computer Science at Estácio University, I’
 
 "All effective innovations are surprisingly simple. In fact, the biggest compliment that an innovation can receive is someone saying: This is obvious! Why did not I think about it before?"
 
+<img src="https://github-readme-stats.vercel.app/api?username=imperadorxs&show_icons=tru&theme=dracula" alt="Status" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imperadorxs&layout=compact&show_icons=true&theme=dracula" alt="Langs" />
